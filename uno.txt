@@ -2,4 +2,8 @@
 Primera línea
 =======
 Segunda línea
+<<<<<<< HEAD
+>>>>>>> RamaDos
+=======
+tecera línea
 >>>>>>> RamaDos
